@@ -1,5 +1,5 @@
 # UOB_2024_LLM_EYE_HOSPTITAL
-This is the 2024 summer project for "Natural language processing to track ophthalmology referrals to the Bristol Eye Hospital"
+This repository showcases a Python Flask web application that automatically extracts referral content from ophthalmology referral letters using Optical Character Recognition (OCR) and a fine-tuned Large Language Model (LLM). The goal is to reduce unnecessary hospital referrals by quickly identifying genuine cases of papilloedema.
 
 # Importance
 Never upload any bristol eye hospital data to this repository. If you accidentally upload it, delete it immediately
